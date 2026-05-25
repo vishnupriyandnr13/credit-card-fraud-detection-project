@@ -44,4 +44,4 @@ credit-card-fraud-detection-ml/
 3. Run notebook cells
 
 ## Author
-Your Name
+Vishnu Priya Nedunoori
