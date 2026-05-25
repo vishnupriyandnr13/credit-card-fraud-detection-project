@@ -1,47 +1,6 @@
-# Credit Card Fraud Detection Using Machine Learning
+Dataset not included because GitHub has file size limits.
 
-## Overview
-This project implements a machine learning-based credit card fraud detection system using Scikit-learn and Snap ML.
+Download dataset from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Completed as part of an IBM Cognitive Class guided project.
-
-## Technologies Used
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Snap ML
-- Jupyter Notebook
-- Matplotlib
-
-## Features
-- Data preprocessing
-- Fraud transaction classification
-- Model training and evaluation
-- Accuracy comparison
-
-## Models Used
-- Decision Tree
-- Logistic Regression
-- Support Vector Machine
-- Snap ML models
-
-## Project Structure
-```text
-credit-card-fraud-detection-ml/
-│
-├── notebook/
-├── dataset/
-├── screenshots/
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
-## How to Run
-1. Install dependencies
-2. Open Jupyter Notebook
-3. Run notebook cells
-
-## Author
-Vishnu Priya Nedunoori
+Place creditcard.csv inside this folder.
