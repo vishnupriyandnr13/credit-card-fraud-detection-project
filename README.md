@@ -5,7 +5,6 @@ This project focuses on detecting fraudulent credit card transactions using mach
 
 This project was completed as part of an IBM Cognitive Class guided project and enhanced with improved project organization and documentation.
 
----
 
 ## Features
 - Data preprocessing and cleaning
