@@ -14,8 +14,6 @@ This project was completed as part of an IBM Cognitive Class guided project and 
 - Model evaluation and accuracy comparison
 - Visualization of results
 
----
-
 ## Technologies Used
 - Python
 - Pandas
