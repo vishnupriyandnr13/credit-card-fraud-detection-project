@@ -112,7 +112,6 @@ Project output screenshots can be added inside the `screenshots/` folder.
 ## Author
 Vishnupriya
 
----
 
 ## License
 This project is for educational and learning purposes.
