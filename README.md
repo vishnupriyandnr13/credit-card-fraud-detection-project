@@ -71,8 +71,6 @@ credit-card-fraud-detection-project/
 └── .gitignore
 ```
 
----
-
 ## Installation
 
 Install required dependencies:
